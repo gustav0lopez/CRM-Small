@@ -11,10 +11,11 @@
     <section class="content">
         <div class="container">
             <div class="row">
+                <div class="col-sm-8">LOGO</div>
+                <div class="col-sm-4">Buscador</div>
+            </div>
+            <div class="row">
                 <div class="col">
-                    <span>LOGO</span>
-                </div>
-                <div class="col-5">
                     <ul class="nav nav-pills">
                         <li class="nav-item">
                             <a class="nav-link active" href="#">Nuevo Presupuesto</a>
@@ -30,7 +31,10 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col">
+                <div class="col-md-auto">
+                    <span>COSAS</span>
+                </div>
+                <div class="col-md-auto">
                     <span>COSAS</span>
                 </div>
             </div>
